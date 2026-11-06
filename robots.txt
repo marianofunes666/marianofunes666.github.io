@@ -3,4 +3,4 @@ Allow: /
 Disallow: /tools/
 Disallow: /data/
 
-Sitemap: https://marianofunes.github.io/sitemap.xml
+Sitemap: https://marianofunes666.github.io/sitemap.xml
