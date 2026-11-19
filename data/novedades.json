@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2026-11-17-casacion-recusaciones-causa-libra",
+      "date": "2026-11-17",
+      "area": "Tribunales",
+      "title": "Presentan recusaciones contra dos de los tres jueces de Casación que revisan la causa $LIBRA",
+      "summary": "En la Cámara Federal de Casación Penal se presentaron recusaciones contra dos de los tres integrantes de la sala que debe resolver si se reincorpora a querellantes apartados en la causa $LIBRA. Una de las recusaciones apunta a un camarista cuyo hijo ocupa un cargo en el Ministerio de Justicia. El planteo no afecta el sobreseimiento ya dictado, pero puede demorar la integración del tribunal llamado a revisarlo.",
+      "why": "Un cambio en la integración de la sala puede demorar los plazos de la revisión sobre la legitimación de querellantes.",
+      "sources": [
+        {"name": "Perfil", "url": "https://www.perfil.com/politica/causa-libra-recusaron-a-dos-de-los-tres-jueces-de-casacion-que-deben-decidir-si-vuelve-a-abrirse-el-expediente-acecb7y6N6VS"},
+        {"name": "La Nación", "url": "https://www.lanacion.com.ar/politica/caso-libra-recusaron-a-otro-juez-clave-para-la-posible-reapertura-de-la-causa-por-estafa-contra-nid17112026/"}
+      ]
+    },
+    {
       "id": "2026-10-15-magistratura-ternas-concursos",
       "date": "2026-10-15",
       "area": "Consejo de la Magistratura",
