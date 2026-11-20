@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "2026-11-18-magistratura-juramento-consejeros-jueces",
+      "date": "2026-11-18",
+      "area": "Consejo de la Magistratura",
+      "title": "Asumieron los nuevos consejeros del estamento de jueces en el Consejo de la Magistratura",
+      "summary": "La Corte Suprema tomó juramento a Marcelo Gallo Tagle, Paula Castro y Gabriela Vázquez como consejeros en representación del estamento de los jueces, que desde esa fecha integran el Consejo de la Magistratura renovado. El presidente de la Corte, Horacio Rosatti, continúa al frente del cuerpo. El cambio de integración se da mientras sigue en trámite un paquete de 71 dictámenes de concurso para cubrir vacantes en distintos fueros.",
+      "why": "Marca el inicio de la nueva integración del Consejo, que deberá resolver las ternas y concursos pendientes en varios fueros.",
+      "sources": [
+        {"name": "Diario Judicial", "url": "https://www.diariojudicial.com/news-104840-el-consejo-apura-la-herencia"}
+      ]
+    },
+    {
       "id": "2026-11-17-casacion-recusaciones-causa-libra",
       "date": "2026-11-17",
       "area": "Tribunales",
