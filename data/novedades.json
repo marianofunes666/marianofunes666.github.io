@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "id": "2026-11-19-corte-suprema-competencia-lavado-afa-rafecas",
+      "date": "2026-11-19",
+      "area": "Corte Suprema",
+      "title": "La Corte Suprema devuelve a un juzgado porteño una causa de lavado de activos vinculada a dirigentes de la AFA",
+      "summary": "La Corte Suprema revocó una decisión de la Cámara Federal de Casación Penal y ordenó que una causa por presunto lavado de activos, iniciada por la compra de un inmueble, vehículos y caballos por parte de dos particulares vinculados a la AFA, vuelva al Juzgado Federal N° 3 de la Ciudad de Buenos Aires. El tribunal consideró que el traslado previo a un juzgado del interior había infringido las reglas de competencia territorial, ya que los actos relevantes de la causa se ubican en la Capital Federal.",
+      "why": "Reafirma el criterio de la Corte sobre la garantía del juez natural y limita el desplazamiento de causas federales complejas hacia otras jurisdicciones por razones de competencia territorial.",
+      "sources": [
+        {"name": "Diario Judicial", "url": "https://www.diariojudicial.com/news-104925-la-pelota-vuelve-a-comodoro-py"}
+      ]
+    },
+    {
+      "id": "2026-11-19-senado-dictamen-suspension-paso-2027",
+      "date": "2026-11-19",
+      "area": "Reformas procesales",
+      "title": "La Comisión de Asuntos Constitucionales del Senado dictaminó la suspensión de las PASO para 2027",
+      "summary": "La Comisión de Asuntos Constitucionales del Senado de la Nación emitió dictamen de mayoría para suspender, con carácter transitorio, las elecciones primarias abiertas, simultáneas y obligatorias (PASO) correspondientes al proceso electoral de 2027. El texto mantiene la elección general y deja en manos de cada partido la selección de candidatos conforme a sus propias cartas orgánicas. El dictamen contó con ocho firmas a favor, dos en disidencia y una en disidencia parcial.",
+      "why": "De convertirse en ley, modifica el cronograma y el mecanismo de selección de candidaturas para las elecciones de 2027, con incidencia directa en el derecho electoral y partidario.",
+      "sources": [
+        {"name": "Palabras del Derecho", "url": "https://www.palabrasdelderecho.com.ar/articulo/7106/Reforma-electoral-el-Senado-dictamino-la-suspension-de-las-PASO"}
+      ]
+    },
+    {
       "id": "2026-11-18-magistratura-juramento-consejeros-jueces",
       "date": "2026-11-18",
       "area": "Consejo de la Magistratura",
