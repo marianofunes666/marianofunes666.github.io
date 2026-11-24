@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "2026-11-19-corte-suprema-prepagas-inconstitucionalidad-dnu",
+      "date": "2026-11-19",
+      "area": "Corte Suprema",
+      "title": "La Corte Suprema declaró inconstitucional la desregulación de las cuotas de las prepagas",
+      "summary": "La Corte Suprema declaró inconstitucionales los artículos 267 y 269 del DNU 70/2023, que habían eliminado el control estatal sobre los aumentos de las cuotas de medicina prepaga. El tribunal consideró que el decreto no acreditó las razones de necesidad y urgencia que exige el artículo 99, inciso 3, de la Constitución Nacional para justificar esa decisión por esa vía. Como consecuencia, la autoridad de aplicación de la Ley 26.682 recupera la facultad de intervenir en los aumentos de cuotas.",
+      "why": "Las prepagas vuelven a quedar sujetas a control estatal para aumentar sus cuotas, lo que incide en la estrategia de aumentos y en los reclamos de usuarios en trámite.",
+      "sources": [
+        {"name": "Diario Judicial", "url": "https://www.diariojudicial.com/news-104924-corte-supremo-a-los-aumentos-de-las-prepagas"},
+        {"name": "Palabras del Derecho", "url": "https://www.palabrasdelderecho.com.ar/articulo/7107/La-Corte-declaro-inconstitucional-la-desregulacion-de-las-cuotas-de-las-prepagas"}
+      ]
+    },
+    {
       "id": "2026-11-19-corte-suprema-competencia-lavado-afa-rafecas",
       "date": "2026-11-19",
       "area": "Corte Suprema",
