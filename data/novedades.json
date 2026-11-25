@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "id": "2026-11-24-csjn-acordada-37-26-sueldos",
+      "date": "2026-11-24",
+      "area": "Corte Suprema",
+      "title": "La Corte Suprema dispuso un aumento salarial del 2,2% para todo el escalafón del Poder Judicial",
+      "summary": "Por Acordada 37/26, firmada el 18 de noviembre, la Corte Suprema otorgó un aumento remunerativo y bonificable del 2,2% para todas las categorías del escalafón del Poder Judicial de la Nación, con vigencia desde el 1° de octubre de 2026. El Tribunal invocó el artículo 7 de la Ley 23.853 para preservar el poder adquisitivo de los salarios y pidió a la Jefatura de Gabinete que adecúe las partidas presupuestarias necesarias.",
+      "why": "Actualiza la base salarial de referencia del Poder Judicial nacional, un dato de utilidad para quienes litigan cuestiones de honorarios y costas.",
+      "sources": [
+        {"name": "Comercio y Justicia", "url": "https://comercioyjusticia.info/leyes-y-comentarios/sueldos-judiciales-la-corte-suprema-dispuso-una-suba-para-todas-las-categorias-del-escalafon-del-poder-judicial-de-la-nacion"}
+      ]
+    },
+    {
+      "id": "2026-11-24-magistratura-salta-concursos-vacantes",
+      "date": "2026-11-24",
+      "area": "Consejo de la Magistratura",
+      "title": "El Consejo de la Magistratura de Salta avanza con tres concursos para cubrir vacantes judiciales",
+      "summary": "El Consejo de la Magistratura de Salta tramita tres concursos: uno para el Asesor de Incapaces N.° 6 del Distrito Centro, con terna a elevar en estos días; otro para el Juez de Violencia Familiar y de Género de Tartagal, con entrevista fijada para el 27 de noviembre; y un tercero para una vocalía de la Cámara de Apelaciones en lo Civil y Comercial, Sala I, cuyo cronograma se extiende hasta febrero de 2027.",
+      "why": "Marca los plazos y el cronograma concreto de tres vacantes judiciales salteñas relevantes para quienes litigan en esos fueros.",
+      "sources": [
+        {"name": "Diario Judicial", "url": "https://www.diariojudicial.com/news-104952-avanzan-tramites-para-coberturas-de-vacantes-en-salta"}
+      ]
+    },
+    {
       "id": "2026-11-19-corte-suprema-prepagas-inconstitucionalidad-dnu",
       "date": "2026-11-19",
       "area": "Corte Suprema",
